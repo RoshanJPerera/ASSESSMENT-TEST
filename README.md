@@ -10,7 +10,7 @@ This repository includes test scripts for validating API endpoints.
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/<your-username>/ASESSMENT-TEST.git
+git clone https://github.com/RoshanJPerera/ASSESSMENT-TEST.git
 cd ASESSMENT-TEST
 ```
 
