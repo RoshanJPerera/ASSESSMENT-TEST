@@ -6,16 +6,6 @@ This repository includes test scripts for validating API endpoints with structur
 
 ---
 
-## 🔹 Project Overview  
-
-✅ **Automated API Tests** - Covers GET, POST, PUT, DELETE operations.  
-✅ **Playwright-Based Framework** - Uses `@playwright/test` for automation.  
-✅ **HTML & JSON Reports** - Generates structured reports for test execution.  
-✅ **Logging & Debugging** - API responses are stored in `logs/api-results.json`.  
-✅ **Error Handling** - Ensures smooth execution with proper validations.  
-
----
-
 ## 🛠️ Getting Started  
 
 ### 1️⃣ Clone the Repository  
@@ -49,7 +39,10 @@ npx playwright test
 ```sh
 npx playwright test tests/api-test.spec.js
 ```
-
+or
+```sh
+npx playwright test test/api.test.js
+```
 ### **Run Tests in Debug Mode**  
 ```sh
 npx playwright test --debug
