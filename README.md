@@ -61,28 +61,3 @@ This will open an interactive **HTML report** in the browser.
 
 ---
 
-## 📂 Project Structure  
-
-```
-📂 ASESSMENT-TEST
- ├── 📂 tests
- │    ├── api-test.spec.js   # API test scripts
- │
- ├── 📂 logs
- │    ├── api-results.json   # Stores API logs
- │
- ├── 📂 reports
- │    ├── index.html         # Playwright HTML report
- │
- ├── .gitignore
- ├── package.json
- ├── README.md               # Documentation
- ├── playwright.config.js     # Playwright Configuration
-```
-
----
-
-## ❓ Need Help?  
-For any issues, raise a GitHub issue or contact the repository maintainer.
-
----
