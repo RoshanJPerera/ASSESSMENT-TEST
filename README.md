@@ -4,11 +4,11 @@
 **ASESSMENT-TEST** is an automated API testing project using **Playwright**.  
 This repository includes test scripts for validating API endpoints.
 
----
+```
 
 ## 🛠️ Getting Started  
 
-### 1️⃣ Clone the Repository  
+### 1️⃣ Clone the Repository
 ```sh
 git clone https://github.com/<your-username>/ASESSMENT-TEST.git
 cd ASESSMENT-TEST
