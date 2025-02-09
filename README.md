@@ -17,7 +17,7 @@ This repository contains automated API tests using **Playwright**. The tests cov
  │    ├── api-test.spec.js   # Main test file
  │    ├── utils.js           # Utility functions (logging, setup)
  │
- ├── 📂 reports
+ ├── 📂 playwright-report
  │    ├── index.html         # Playwright HTML report
  │
  ├── .gitignore
@@ -31,14 +31,14 @@ This repository contains automated API tests using **Playwright**. The tests cov
 ## 🛠️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
-```sh
+```
 git clone <your-repo-url>
 cd playwright-api-test
 ```
 
 ### 2️⃣ Install Dependencies
 Make sure you have **Node.js 18+** installed, then run:
-```sh
+```
 npm install
 ```
 
@@ -96,5 +96,3 @@ API requests & responses are logged in `logs/api-results.json`. You can check th
 For issues, please raise a GitHub issue or contact the repository maintainer.
 
 ---
-   
-Now your repository is **well-documented**, and anyone can **clone, set up, and run the tests easily**. 🎯 🚀
