@@ -2,7 +2,7 @@
 # 🎭 ASESSMENT-TEST - Playwright API Test Project  
 
 **ASESSMENT-TEST** is an automated API testing project using **Playwright**.  
-This repository includes test scripts for validating API endpoints with structured **logging, debugging, and reporting**.
+This repository includes test scripts for validating API endpoints.
 
 ---
 
