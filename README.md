@@ -1,7 +1,3 @@
----
-
-## **📌 README.md - Playwright API Test Automation**
-
 ```
 # 📌 Playwright API Test Automation
 
